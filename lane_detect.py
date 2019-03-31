@@ -82,7 +82,7 @@ def main(path):
     cap.release()
     cv2.destroyAllWindows()
 
-#video_path = 'E:\\eclipse-workspace\\Lab1\\test.mp4'
+
 video_path = "test.mp4"
 
 main(video_path)
